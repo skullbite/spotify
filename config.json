@@ -1,0 +1,17 @@
+{
+    "DISCORD": "--DIVIDER--",
+    "token": "",
+    "webhook": "",
+    "owners": [1, 2, 3],
+    "BOTLISTS": "--ALSO A DIVIDER--",
+    "dbl": "",
+    "bfd": "",
+    "friends": [], 
+    "SPOTIFY": "--I HOPE YOU'RE NOT CALLING THESE LOL--",
+    "client_id": "",
+    "sclient_secret": "",
+    "MUSIC (lavalink)": "--WOW, MUCH DIVISION--",
+    "host": "0.0.0.0",
+    "port": 5000,
+    "password": "youshallnotpass"
+}
