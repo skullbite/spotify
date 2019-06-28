@@ -1,3 +1,4 @@
+"""https://github.com/EvieePy/Wavelink"""
 import lavalink
 import asyncio
 import datetime
@@ -122,7 +123,7 @@ class Music(commands.Cog):
         password = config["password"]
         for shard in list(self.bot.shards)
             node = await self.bot.wavelink.initiate_node(host=host,
-                                                         port=2333,
+                                                         port=port,
                                                          rest_uri=f'http://{host}:{port}',
                                                          shard_id=int(shard),
                                                          password=password,
